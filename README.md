@@ -175,13 +175,9 @@ Chaque colonne = une caractéristique de l’image
 
 
 1. Ce que détermine le dataset :
-Ce n’est pas pour savoir s’il y a un cancer dans le corps.
- C’est pour déterminer si une tumeur déjà détectée est :
- Bénigne (non cancéreuse)
-
-ou
-
-Maligne (cancéreuse)
+ L'objetif du projet ce n’est pas pour savoir s’il y a un cancer dans le corps.
+ mais c’est pour déterminer si une tumeur déjà détectée est :
+ Bénigne (non cancéreuse) ou Maligne (cancéreuse)
 
 Donc :
 Oui, c’est de la détection de cancer du sein, mais sur une tumeur déjà observée en imagerie ou palpée par un médecin.
